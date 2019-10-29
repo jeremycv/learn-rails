@@ -1,7 +1,7 @@
 # README
 
 This README would normally document whatever steps are necessary to get the
-application up and running.
+application up and running. Learning Rails with Daniel's tutorial.
 
 Things you may want to cover:
 
